@@ -3,7 +3,7 @@
 ### [Meu perfil!](https://judge.beecrowd.com/pt/profile/1006337)
 
 Este repositório visa armazenar as minhas resoluções para os problemas da plataforma Beecrowd.
-Os arquivos estão organizados por categoria e linguagem para fácil entendimento e navegação.
+Os arquivos estão organizados por linguagem para fácil entendimento e navegação.
 
 > [!WARNING]
 >
